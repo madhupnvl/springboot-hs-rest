@@ -7,7 +7,7 @@
 	<groupId>com.store</groupId>
 	<artifactId>pet-store</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>jar</packaging> <!-- //JPMRG-1123 -->
 
 	<name>pet-store</name>
 	<description>pet-store</description>
